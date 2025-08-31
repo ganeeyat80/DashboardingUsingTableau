@@ -40,21 +40,10 @@ The interactive **Tableau Dashboard** provides:
 * Key KPIs such as **Attrition Rate**, **Total Employees**, and **Department Breakdown**
 
 ## Project Structure
-bash
-├── Tableau_Dashboard/        # Tableau workbook (.twb / .twbx)
-├── Data/                     # Dataset (CSV/Excel format)
-├── README.md                 # Project documentation
 
-## How to Use
-
-1. Clone the repository:
-
-   bash
-   git clone https://github.com/your-username/employee-attrition-analysis.git
-   ```
-2. Run the SQL queries to replicate analysis results.
-3. Open the Tableau workbook to interact with the dashboard.
-4. Explore insights and adapt queries for further analysis.
+* Tableau_Dashboard/        # Tableau workbook (.twb / .twbx)
+* Data/                     # Dataset (CSV format)
+* README.md                 # Project documentation
 
 ## Key Takeaways
 
