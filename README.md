@@ -1,6 +1,5 @@
 # DashboardingUsingTableau
 This dashboard provides a comprehensive summary analysis of employee data, highlighting key insights to support decision-making around workforce attrition. 
-Here’s a clean **README.md** draft you can use for your GitHub repository on the **Employee Attrition Dataset Analysis and Dashboard** project:
 
 # Employee Attrition Analysis & Dashboard
 
