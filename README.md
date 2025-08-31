@@ -32,12 +32,13 @@ The goal is to support HR and management teams in making **data-driven decisions
 ##  Dashboard Features
 
 The interactive **Tableau Dashboard** provides:
+
 <img width="1920" height="1014" alt="Tableau Public - Employee Attrition Dataset twb2 24_08_2025 18_58_26" src="https://github.com/user-attachments/assets/3de7096c-12dd-4c9c-9307-7fff25676f67" />
 
 * Summary view of attrition by gender, age group, and department
 * Drill-down by job role, satisfaction rate, and education field
 * Time-series view of attrition trends
-* Key KPIs such as **Attrition Rate**, **Total Employees**, and **Department Breakdown**
+* Key KPIs such as **Attrition Rate**, **Total Attrittion** and  **Total Employees**.
 
 ## Project Structure
 
